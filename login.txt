@@ -1,1 +1,2 @@
 login feature added to project.
+login with email added.
